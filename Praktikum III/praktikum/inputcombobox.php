@@ -11,7 +11,7 @@
 <body>
     <form action="prosecombobox.php" method="post" name="input">
         <h2>Pilih Film kartun favorit anda</h2>
-        <select name="Kartun" id="">
+        <select name="Kartun    " id="">
             <option value="Spong Box"> Spong bob</option>
             <option value="Sincan"> Sincan</option>
             <option value="Coran"> Conan</option>
